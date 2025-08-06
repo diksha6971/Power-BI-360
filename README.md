@@ -20,13 +20,19 @@ The Business Insights 360 dashboard provides a comprehensive data-driven solutio
 📑 1. Finance View 💰
 
 ✔ Analyze P&L statements for customers, products, or regions.
+
 ✔ Track Net Sales, Gross Margin, and Profitability trends over time.
+
 ✔ Compare financial performance across different periods.
+
 📑 2. Sales View 📊
 
 ✔ Monitor customer & product performance using key metrics.
+
 ✔ Identify top & bottom-performing products & customers.
+
 ✔ Use a profitability/growth matrix for sales insights.
+
 📑 3. Marketing View 📢
 
 ✔ Evaluate product performance by sales and profitability.
