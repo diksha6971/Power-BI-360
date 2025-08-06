@@ -36,29 +36,45 @@ The Business Insights 360 dashboard provides a comprehensive data-driven solutio
 📑 3. Marketing View 📢
 
 ✔ Evaluate product performance by sales and profitability.
+
 ✔ Identify growth trends & market segmentation insights.
+
 ✔ Compare sales performance across product categories.
+
 📑 4. Supply Chain View 🚚
 
 ✔ Track Forecast Accuracy, Net Error & Risk Profile for products & customers.
+
 ✔ Identify excess inventory risks & stockout alerts.
+
 ✔ Optimize demand planning with historical data insights.
+
 📑 5. Executive View 🏢
 
 ✔ A top-level dashboard consolidating insights across finance, sales & supply chain.
+
 ✔ Quick access to key business performance metrics.
+
 ✔ Market share trends & revenue distribution analysis.
+
 📑 6. Support View 📞
 
 ✔ Customer support analytics to track issue resolution.
+
 ✔ Optimize response times & service quality.
+
 📊 Key Business Metrics
 
 📌 Net Sales Performance Over Time – Track revenue growth & fluctuations.
+
 📌 Top/Bottom Products & Customers – Identify best & worst performers.
+
 📌 Profit & Loss Statement – Detailed financial performance tracking.
+
 📌 Unit Economics & Performance Matrix – Cost & margin analysis.
+
 📌 Customer & Product KPIs – Gain insights into market trends.
+
 🔧 Technologies Used
 
     Power BI – Interactive data visualization & reporting.
