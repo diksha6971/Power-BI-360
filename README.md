@@ -5,11 +5,17 @@ The Business Insights 360 dashboard provides a comprehensive data-driven solutio
 🚀 Key Features
 
 ✅ Finance View – P&L statements, Net Sales & Profitability trends 📈
+
 ✅ Sales View – Customer & product performance analytics 📊
+
 ✅ Marketing View – Market trends & growth matrix 📢
+
 ✅ Supply Chain View – Forecast accuracy & risk profiling 🚚
+
 ✅ Executive View – High-level KPIs for strategic decision-making 🏢
+
 ✅ Support View – Customer service & issue resolution 📞
+
 📂 Views & Insights
 📑 1. Finance View 💰
 
